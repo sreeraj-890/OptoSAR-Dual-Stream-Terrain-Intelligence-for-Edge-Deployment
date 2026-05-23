@@ -1,0 +1,13 @@
+Where We Stand Right Now (Your Checklist)
+You have already done 90% of the heavy lifting. We are just dealing with the final logistics:
+
+[x] Model Training: Done (You have your notebook and ONNX model).
+
+[x] Professional Data: Done (You have a real multispectral .tif file).
+
+[x] Folder Structure: Done (Your data, scripts, and notebooks folders are ready).
+
+file in-------- cat << 'EOF' > OptoSAR-Edge-Inference-Galaxeye/build_engine.py------ run this in anaconda prompt python3 OptoSAR-Edge-Inference-Galaxeye/build_engine.py
+if passsed got PASSED! OptoSAR_Edge_Engine.engine has been saved.
+
+like wise file python3 OptoSAR-Edge-Inference-Galaxeye/run_inference.py
